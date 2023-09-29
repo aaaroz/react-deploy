@@ -78,17 +78,6 @@ export default function Header() {
                 {/* Sign Up */}
               </button>
             </li>
-            <li className="nav-item me-3">
-              <button type="button" className="btn btn-primary p-2">
-                <Link
-                  className="text-white text-decoration-none"
-                  to="/login-account"
-                >
-                  Login
-                </Link>
-                {/* Login */}
-              </button>
-            </li>
           </ul>
         </div>
       </div>
